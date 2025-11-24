@@ -72,7 +72,7 @@ sns.despine()
 
 plt.suptitle("Covid-19 Dashboard",fontsize=18,fontweight="bold")
 plt.tight_layout()
-#plt.savefig("dashboard")
+#plt.savefig("dashboard") 
 plt.show()
 
 
